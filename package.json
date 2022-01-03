@@ -1,0 +1,20 @@
+{
+  "name": "hackerearth",
+  "version": "1.0.0",
+  "description": "Hacker Earth Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautham Dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "memory-cache": "^0.2.0",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
